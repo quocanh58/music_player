@@ -41,6 +41,7 @@
   height: 64%;
   aspect-ratio: 1;
   border-radius: 20px;
+  object-fit: cover;
 }
 
 .playlist-title {
