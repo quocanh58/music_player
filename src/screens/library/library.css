@@ -17,12 +17,12 @@
   color: aqua;
   padding: 1%;
   margin-bottom: 2%;
-  background: rgb(145, 238, 181);
-  background: radial-gradient(
+  background: #ffffff1e;
+  /* background: radial-gradient(
     circle,
-    rgba(145, 238, 181, 1) 30%,
-    rgba(26, 80, 34, 0.8995973389355743) 100%
-  );
+    rgba(145, 238, 181, 0.7511379551820728) 43%,
+    rgba(5, 58, 13, 0.9) 100%
+  ); */
 
   transition: all 0.3s ease;
   cursor: pointer;
