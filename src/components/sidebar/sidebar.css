@@ -1,0 +1,41 @@
+.sidebar-container {
+  width: 120px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sidebar-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px; /* Khoảng cách giữa ảnh và chữ */
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.sidebar-footer {
+  margin-bottom: 10px;
+}
+
+.profile-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 12px;
+}
+
+.sidebar-header h5 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  font-weight: 700;
+  color: beige;
+}
+
+.sidebar-header h5 strong {
+  color: azure;
+  font-weight: 800;
+}
