@@ -1,0 +1,13 @@
+.audioPlayer-body {
+  width: 100%;
+  height: 44%;
+  margin: 3% 0%;
+}
+
+.audioPlayer-left-body {
+  width: 37%;
+}
+
+.audioPlayer-right-body {
+  width: 63%;
+}

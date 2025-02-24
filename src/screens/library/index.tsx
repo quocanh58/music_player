@@ -18,8 +18,8 @@ export default function Library() {
 
   const navigate = useNavigate();
 
-  const playPlayList = (playlistId: string) => {
-    navigate("/player", { state: { id: playlistId } });
+  const playPlayList = (id) => {
+    navigate("/player", { state: { id: id } });
   };
 
   return (

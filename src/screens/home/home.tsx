@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Swal from "sweetalert2";
-import Library from "../library/library";
-import Feed from "../feed/feed";
-import Trending from "../trending/trending";
-import Player from "../player/player";
-import Favorite from "../favorites/favorites";
+import Library from "../library/index";
+import Feed from "../feed/index";
+import Trending from "../trending/index";
+import Player from "../player/index";
+import Favorite from "../favorites/index";
 import "./home.css";
 import Sidebar from "../../components/sidebar";
 import Login from "../auth/login";
