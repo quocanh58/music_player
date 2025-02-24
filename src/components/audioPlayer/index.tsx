@@ -1,6 +1,6 @@
 import React from "react";
 import "./audioPlayer.css";
-import ProcessCircle from "./ProcessCircle";
+import ProcessCircle from "./processCircle";
 
 export default function AudioPlayer({ currentTrack }) {
   return (
